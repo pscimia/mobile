@@ -3,5 +3,3 @@ Sito che presenta una lista di persone che offrono il loro tempo per impartire r
 Aggiornato a 2020 giugno 23
 
 VideoRipetizioni.zip scompattato diventa un file VideoRipetizioni.mp4 uno screenrecorder live.
-Il progetto e' multipiattaforma seguendo la politica del linguaggio Java.
-Write once, runs everywhere.
